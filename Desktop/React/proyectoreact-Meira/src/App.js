@@ -2,7 +2,7 @@
 import './App.css';
 import NavBar from './Compnents/NavBar/NavBar';
 function App() {
-const styleApp= { padding: '10px 25px', marginTop :10}
+const styleApp = { padding: '10px 25px', marginTop :10}
   return (
     //jsx
     <div className="container" style={styleApp}>
